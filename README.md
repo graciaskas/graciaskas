@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/graciaskas/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
+    <a href="gracias.zeslap.com">
+      <img src="https://gracias.zeslap.com/src/favicon.png" alt="ZeSlap Badge">
+    </a>
   </p>
 
   <p align="center">
