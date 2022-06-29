@@ -13,7 +13,7 @@ I am a Full Stack Web Developer, Odoo developer <img src="https://media.giphy.co
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks, read tech articles and play video games.
-- 📫 How to reach me: &nbsp; <a href="https://gracias.zeslap.com" target="_blank">Web site</a>
+- 📫 How to reach me: &nbsp; <a href="https://gracias.zeslap.com" target="_blank">Web site</a>, <a href="https://linkedin.com/graciaskas" target="_blank">linkedin</a>
 
 ---
 
