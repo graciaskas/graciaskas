@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"></h3>
+<h3 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h3>
 <h1 align="center">I'm Gracias Kasongo, a web developer.</h1>
 
 <p align="center">
