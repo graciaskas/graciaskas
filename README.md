@@ -4,12 +4,16 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/graciaskas/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="gracias.zeslap.com">
-      <img src="https://gracias.zeslap.com/src/favicon.png" alt="ZeSlap Badge">
-    </a>
+    <span>
+      <a href="https://www.linkedin.com/in/graciaskas/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </span>
+    <span>
+      <a href="gracias.zeslap.com">
+        <img src="https://gracias.zeslap.com/src/favicon.png" alt="ZeSlap Badge" width="100">
+      </a>
+    </span>
   </p>
 
   <p align="center">
@@ -31,7 +35,7 @@ I am a Full Stack Web Developer, Odoo developer <img src="https://media.giphy.co
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks, read tech articles and play video games.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graciaskas) [![Website](https://gracias.zeslap.com/src/favicon.png)
 
 ---
 
